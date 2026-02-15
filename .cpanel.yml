@@ -1,6 +1,6 @@
 ---
 deployment:
   tasks:
-    - export DEPLOYPATH=/home/jeevanka/public_html/
+    - export DEPLOYPATH=/home/jeevanka/public_html/hivexapremium.com
     - /bin/cp * $DEPLOYPATH
  
